@@ -1,27 +1,43 @@
 html, body {
 	width: 100%;
 	height: 100%;
-	background-color: #fdfdfd;
+	background-color: #333;
 	margin: 0;
 	padding: 0;
+	color: #fdfdfd;
 }
 
 #top {
 	width: 100%;
 	height: 3em;
-	background-color: yellow;
-	border-bottom: solid 1px #ddd;
+	background-color: #fdfdfd;
+	border-bottom: solid 1px #050505;
+	border-top: solid 3px #cc0000;
 }
 
 #footer {
 	width: 100%;
-	margin-bottom: 0;
-	background-color: #aaa;
+	height: 5em;
+	bottom: 0;
+	background-color: #f4ec90;
+	position: absolute;
+	color: #333;
+	padding-top: 1em;
+}
+
+#content {
+	padding: 0 2em;
 }
 
 .logo {
 	font-family: "Arial";
-	color: red;
-	font-size: 2em;
-	padding: 0.1em;
+	color: #cc0000;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 0.3em 1em;
+}
+
+.footer-info {
+	margin: 0 auto;
+	width: 10em;
 }
