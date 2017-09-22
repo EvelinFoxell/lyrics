@@ -45,12 +45,12 @@ a:hover {
 	padding-bottom: 5em;
 }
 
-.logo {
+.logo, a.logo:hover {
 	font-family: "Arial";
 	color: #cc0000;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-weight: bold;
-	padding: 0.3em 1em;
+	padding: 0.6em 0.7em;
 }
 
 .footer-info {
@@ -66,4 +66,10 @@ a:hover {
 
 a.anchor, a.anchor:hover {
 	color: #050505;
+}
+
+a.logo {
+	text-decoration: none;
+	width: 9em;
+	display: block;
 }
