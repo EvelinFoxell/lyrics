@@ -1,3 +1,8 @@
+/**
+ * CSS for the default design
+ * Author: Evelin Foxell
+ */
+
 html, body {
 	width: 100%;
 	height: 100%;
@@ -23,6 +28,7 @@ a:hover {
 
 #top {
 	width: 100%;
+	min-width: 40em;
 	height: 3em;
 	background-color: #fdfdfd;
 	border-bottom: solid 1px #ddd;
@@ -44,12 +50,18 @@ a:hover {
 	padding-bottom: 6em;
 }
 
+#logo {
+	width: 20em;
+	display: inline-block;
+}
+
 .logo, a.logo:hover {
 	font-family: "Arial";
 	color: #cc0000;
 	font-size: 1.2em;
 	font-weight: bold;
 	padding: 0.6em 0.7em;
+	width: 40em;
 }
 
 .footer-info {
@@ -58,10 +70,26 @@ a:hover {
 	text-align: center;
 }
 
-.article {
+.article, .blog, .bloginfo {
 	margin: 0 auto;
 	max-width: 35em;
+	padding-top: 2em;
 	padding-bottom: 4em;
+}
+
+.blog {
+	border-bottom: solid 1px #ddd;
+	padding-bottom: 2em;
+}
+
+.blogdate {
+	font-size: 0.8em;
+}
+
+.bloginfo {
+	color: #ddd;
+	font-weight: bold;
+	padding-top: 1em;
 }
 
 a.anchor, a.anchor:hover {
@@ -76,5 +104,33 @@ a.logo {
 
 .thanks {
 	font-size: 0.7em;
+	font-style: italic;
+}
+
+.page, a.page {
+	display: inline-block;
+	float: right;
+	font-family: "Arial";
+	color: #050505;
+	font-size: 1em;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.page {
+	padding: 0.85em 0.7em;
+}
+
+a.page {
+	padding: 0;
+}
+
+a.page:hover {
+	text-decoration: none;
+	color: #cc0000;
+}
+
+.center {
+	text-align: center;
 	font-style: italic;
 }

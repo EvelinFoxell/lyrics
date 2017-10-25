@@ -1,10 +1,22 @@
+<!-- 
+	###################################
+	#                                 #
+	# HTML templates by Evelin Foxell #
+	#                                 #
+	###################################
+ -->
 <!DOCTYPE html>
 <html>
 	{% include head.html %}
 <body>
 	<div id="container">
 		<div id="top">
-			<a href="/index.html" class="logo">Nymfäldreboendet</a>
+			<div id="logo">
+				<a href="/index.html" class="logo">Nymfäldreboendet</a>
+			</div>
+			<div class="page"><a class="page" href="/articles.html">Artiklar</a></div>
+			<div class="page"><a class="page" href="/blog_home.html">Blogg</a></div>
+			<div class="page"><a class="page" href="/index.html">Hem</a></div>
 		</div>
 		<div id="content">
 			{{ content }}

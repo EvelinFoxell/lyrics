@@ -1,0 +1,13 @@
+# Site settings
+title: Nymfäldreboendet
+email: evelin.foxell+Nymfaldreboendet@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Detta är en hemsida för mitt lilla "Nymfäldreboende" 
+  där jag kan dels blogga om vad som händer samt lägga 
+  upp information och råd.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username: EvelinFoxell
+
+# Build settings
+markdown: kramdown
