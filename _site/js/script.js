@@ -1,1 +1,0 @@
-//alert('WARNING! The site you\'re about to visit is hideous!');
