@@ -9,8 +9,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 author: Evelin Foxell
 url: "http://nymfaldreboendet.evelinfoxell.se" # the base hostname & protocol for your site
 github_username: EvelinFoxell
-include: ['articles']
+image: /img/welcome.png
 lang: sv_SE
+include: ['_pages']
 plugins:
   - jekyll-seo-tag
 
