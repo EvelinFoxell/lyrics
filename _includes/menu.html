@@ -1,0 +1,10 @@
+<div id="top">
+	<div id="logo">
+		<a href="/index.html" class="logo">Nymfäldreboendet</a>
+	</div>
+	{% for page in site.pages %}
+		{% if page.type == 'page' %}
+			<div class="page"><a class="page" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></div>
+		{% endif %}
+	{% endfor %}
+</div>

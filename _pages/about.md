@@ -1,0 +1,21 @@
+---
+layout: default
+author: Evelin Foxell
+title: "Om oss"
+type: page
+date: 2017-10-26 13:00:00 +0100
+permalink: /about
+---
+<div class="article">
+	<h2>Om Nymfäldreboendet</h2>
+	<p>Nymfäldreboendet är vad jag kallar min voljär där jag har mina Nymfkakaduor. Jag har tagit emot ett flertal äldre nymfkakaduor för att ge dem ett förevigt hem med den anpassning de behöver då några är handikappade av ålder och/eller skador.</p>
+	<p>Här bor för närvarande 13 st nymfer där den yngsta är 4 år och de äldsta någonstans över 20, de flesta är över 10 år.</p>
+	<p>Det hela började maj 2016 med att vi hittade en liten nymfkakadua i ett dödsbo, helt övergiven då myndigheterna missat henne när de hämtat alla andra djur i lägenheten. Givetvis tog vi in henne och direkt till veterinären. Och man kan ju inte bara ha en fågel så jag köpte en kompis till henne, som visade sig vara inte så lämplig då han var mycket friskare än henne och hon är väldigt skröplig, så när någon frågade om jag kunde ta in två till då deras räddare visat sig vara dammaleriger. Något som inte fungerar så bra med dammiga nymfkakaduor tackade jag ja.</p>
+	<p>Och där ställdes jag inför nästa dilemma; nu hade jag ett par och en "ensamfågel" som var ett tredje hjul till de friska två, och en pina för den gamla gumman som han bara attackerade om han fick. Så hittade jag en dam i lämplig ålder och tänkte, "JACKPOTT!" och skulle börja matchmakea. Det gick inte alls bra; den ensamma hanen blev helt tokig och jagade den nya tjejen till sådan nivå att jag fick hålla dem helt separat. Hanen kunde inte bestämma sig för om han älskade henne eller hatade henne, och den nya donnan valde mig som sin partner dessutom.</p>
+	<p>Medan jag kliade mig i huvudet frågade en person om inte jag kunde ta in en ensam liten nymf som någon dumpat hos hen, och som hen försökt att ta hand om, men insett att det inte var menat. Jag tog givetvis in henne, och hon blev så till sig när hon fick höra de andra att jag trodde hon skulle slå ihjäl sig i sin bur. Men hon fick till slut komma in till de andra och då blev hon lugn som en filbunke och kastade ett bestämt öga på min bråkstake. Hon bestämde sig genast för att den stora starka snyggingen ville hon allt ha! Och så blev det. Eftersom hon bestämde sig för honom var hon den enda som inte var rädd för honom, och då kunde mobbaren lägga attityden åt sidan och fokusera på att lära sig hur man är fågel. Tids nog förstod han också att det inte var ensidigt från hans sida, men de jobbar fortfarande på kommunikationen.</p>
+	<p>Med lugnet i flocken upprättad fick jag nog av deras lilla bur och byggde mig min voljär. När den stod klar var det fyra små stackare som också stod hemlösa och ville hit. Efter att ha tänkt igenom det noga; från 6 till 10 är ju ändå ett stort hopp. Plats finns, och de var alla vuxna nymfer så jag fick allt ta och öppna mitt hem åt dem.</p>
+	<p>Några månader gick och två "ungdomar", en 8åring med skadad fot och hans fru, behövde ett nytt hem utan undulater som mobbade dem, och de fick komma till oss också trots allt eftersom hanen behövde ett handikappsanpassat hem, trodde vi. Han klarar sig så bra ändå att han jobbar hårt på sin dröm att bli pappa.</p>
+	<p>Efter det så blev jag kontaktad av en person som inte kunde hitta ett bra hem åt en av sina hanar som han behövde omplacera pga svår sjukdom i familjen. Ingen annan hade ett tillräckligt bra hem åt deras lille ögonsten som var van vid stora voljärer och att flyga fritt, men mig hade de förtroende för (väldigt ärad) så de frågade om det inte fanns plats för en till, och ja, det finns det ju, även om han är så ung.</p>
+	<p>Det nyaste tillskottet blev på en gång tokkär i damen jag hade tänkt åt min nu f.d. bråkstake och friar idogt till henne, men hon är inte alls intresserad. Men hon är snäll, så han får följa efter henne i voljären trots allt. Hennes hjärta tillhör visst mig, men det är skönt att det finns en kille som håller henne sällskap när jag inte kan.</p>
+	<p>Det är den korta versionen om oss på Nymfäldreboendet. När bloggen kommer upp kan du följa oss där!</p>
+</div>

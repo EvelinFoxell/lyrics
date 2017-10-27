@@ -11,9 +11,9 @@ url: "http://nymfaldreboendet.evelinfoxell.se" # the base hostname & protocol fo
 github_username: EvelinFoxell
 image: /img/welcome.png
 lang: sv_SE
-include: ['_pages']
 plugins:
   - jekyll-seo-tag
+include: ['_pages', '_articles']
 
 # Build settings
 markdown: kramdown
