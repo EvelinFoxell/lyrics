@@ -135,3 +135,8 @@ a.page:hover {
 	text-align: center;
 	font-style: italic;
 }
+
+.nextpost {
+	margin: 0 auto;
+	text-align: center;
+}
