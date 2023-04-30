@@ -1,6 +1,4 @@
-# nymfaldreboendet
-A github page about cockatiels.
+# Lyrics
+A github page for lyrics, nothing more nothing less
 
-Currently only supports Swedish.
-
-Visit it here: [https://evelinfoxell.github.io/nymfaldreboendet](https://evelinfoxell.github.io/nymfaldreboendet)
+Visit it here: [https://www.lyrics.evelinfoxell.se](https://www.lyrics.evelinfoxell.se)
